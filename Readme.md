@@ -21,8 +21,7 @@ Open `index.html` in your browser to view the site locally.
 - `index.html`
 - `styles.css`
 - `script.js`
-- `banner.jpeg`
-- `chatgpt-image.png`
+- `your-image.png`
 
 ## How To Run Locally
 1. Download or clone this repository.
